@@ -8,9 +8,9 @@
 
 # Main operations
 ## Build table
-a. Scan resource files
-b. Find key (canonical en) and values
-c. Insert/Update row
+* Scan resource files
+* Find key (canonical en) and values
+* Insert/Update row
 
 ## Append items
 Use pre-defined format, just need a minor tool
