@@ -1,4 +1,4 @@
-build/.vs/
-build/Debug/
-build/*.VC.db
-build/*.vcxproj.filters
+build/l10ntool/.vs/
+build/l10ntool/Debug/
+build/l10ntool/*.VC.db
+build/l10ntool/*.vcxproj.filters
